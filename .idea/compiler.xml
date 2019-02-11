@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="libgdx-ktx-actions.core.main" target="1.6" />
+      <module name="libgdx-ktx-actions.core.test" target="1.6" />
+      <module name="libgdx-ktx-actions.desktop.main" target="1.6" />
+      <module name="libgdx-ktx-actions.desktop.test" target="1.6" />
       <module name="libgdx-ktx-image-manipulation.core.main" target="1.6" />
       <module name="libgdx-ktx-image-manipulation.core.test" target="1.6" />
       <module name="libgdx-ktx-image-manipulation.desktop.main" target="1.6" />
