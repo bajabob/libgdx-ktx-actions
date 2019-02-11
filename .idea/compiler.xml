@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="libgdx-ktx-image-manipulation.core.main" target="1.6" />
+      <module name="libgdx-ktx-image-manipulation.core.test" target="1.6" />
+      <module name="libgdx-ktx-image-manipulation.desktop.main" target="1.6" />
+      <module name="libgdx-ktx-image-manipulation.desktop.test" target="1.6" />
+      <module name="libgdx-ktx-template.core.main" target="1.6" />
+      <module name="libgdx-ktx-template.core.test" target="1.6" />
+      <module name="libgdx-ktx-template.desktop.main" target="1.6" />
+      <module name="libgdx-ktx-template.desktop.test" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
