@@ -7,7 +7,7 @@ https://libgdx.info/basic_action/
 
 ### About
 
-If you are attempting to learn more about Kotlin and LibGDX this is a great forth step, see previous solutions here: https://github.com/bajabob/libgdx-ktx-buttons. This tutorial aims to teach you about LibGDX actor actions. 
+If you are attempting to learn more about Kotlin and LibGDX this is a great forth step, see previous solutions here: https://github.com/bajabob/libgdx-ktx-buttons. This tutorial aims to teach you about LibGDX actor actions and interacting with them using a button. 
 
 ### Uses 
  
